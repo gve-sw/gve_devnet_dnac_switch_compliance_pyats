@@ -19,7 +19,7 @@ or implied.
 # easypy simple_test_job.py -testbed_file <testbed_file.yaml>
 # Description: 
 import os
-from ats.easypy import run
+from pyats.easypy import run
 
 
 # All run() must be inside a main function

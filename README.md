@@ -30,7 +30,7 @@ In the third step, we can also view the test report in the GUI. This interface a
 * Simon Fang (sifang@cisco.com)
 
 ## Solution Components
-* Python 3
+* Python 3.8
 * PyATS
 * DNA Center
 
