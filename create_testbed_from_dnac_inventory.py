@@ -52,7 +52,7 @@ def create_testbed_file(device_list, device_filter, testbed_filename):
                 'type': 'iosxe',
                 'credentials': {
                     'default': {
-                        'userame': dnac_username,
+                        'username': dnac_username,
                         'password': dnac_password
                     }
                 }
